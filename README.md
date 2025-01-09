@@ -1,11 +1,24 @@
 # Hi, I'm Tri 👋
 
-Software Engineer  with over 5 years of experience in the technology industry. I specialize in building and managing end-to-end web applications, from front-end development to complex back-end integration. Additionally, I have experience in configuring and managing servers such as Apache and Nginx, as well as popular databases like MySQL and Redis to ensure optimal system performance and scalability. I am passionate about emerging technologies, particularly real-time data processing, and I am always striving to leverage the latest innovations to deliver efficient and high-quality solutions. For me, learning new things and applying them to real-world projects is the best part of this job.
+"I'm a self-taught Fullstack Developer originally from Indonesia 🇮🇩"
 
-<p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/boombaw/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=boombaw&layout=compact" /></a>
- </p>
+
+💬 Ask me about anything [here](https://github.com/boombaw/boombaw/issues)
+
+ 
+| <a href="https://github.com/boombaw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Boombaw github stats" /></a> | <a href="https://github.com/boombaw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boombaw&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/tri-fitriadi">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   
+
+<p align='center'>
+   📫 How to reach me: <a href='mailto:tri.fitriadi0392@gmail.com'>tri.fitriadi0392</a>
+</p>
+
 <!--
 **boombaw/boombaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
