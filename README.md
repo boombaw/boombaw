@@ -1,5 +1,6 @@
 # Hi, I'm Tri 👋
-Software Engineer with more than 5 years of commercial experience.
+
+Software Engineer  with over 5 years of experience in the technology industry. I specialize in building and managing end-to-end web applications, from front-end development to complex back-end integration. Additionally, I have experience in configuring and managing servers such as Apache and Nginx, as well as popular databases like MySQL and Redis to ensure optimal system performance and scalability. I am passionate about emerging technologies, particularly real-time data processing, and I am always striving to leverage the latest innovations to deliver efficient and high-quality solutions. For me, learning new things and applying them to real-world projects is the best part of this job.
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&count_private=true" /></a>
