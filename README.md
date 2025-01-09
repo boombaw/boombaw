@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, I'm Tri 👋
+Software Engineer with more than 5 years of commercial experience.
 
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/boombaw/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=boombaw&layout=compact" /></a>
+ </p>
 <!--
 **boombaw/boombaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
