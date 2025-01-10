@@ -1,41 +1,78 @@
-# Hi, I'm Tri 👋
+<h1 align="center">Hi 👋, I'm Tri</h1>
+<h3 align="center">A passionate full stack developer from Indonesia</h3>
 
-I'm a self-taught Fullstack Developer originally from Indonesia 🇮🇩
-- 🔭 I’m currently working on Bhayangkara Jakarta Raya University
+- 🔭 I’m currently working on [Bhayangkara Jakarta Raya University](https://ubharajaya.ac.id)
 
-💬 Ask me about anything [here](https://github.com/boombaw/boombaw/issues)
+- 📫 How to reach me **tri.fitriadi0392@gmail.com**
 
-| <a href="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&count_private=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Boombaw github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=boombaw&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boombaw&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+- 💬 Ask me about anything [here](https://github.com/boombaw/boombaw/issues)
+  
+<h3 align="left">Connect with me:</h3>
 <p align='center'>
    <a href="https://www.linkedin.com/in/tri-fitriadi">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boombaw&show_icons=true&locale=en&layout=compact" alt="boombaw" style="height:194px;" /></p>
 
-<p align='center'>
-   📫 How to reach me: <a href='mailto:tri.fitriadi0392@gmail.com'>tri.fitriadi0392</a>
-</p>
-
-## 🛠 Technology Stack
-*   PHP, Node.js, Go, C#, VB.net
-*   MySQL, PostgreSQL, Redis, SQLServer
-*   GitHub/GitLab
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boombaw&show_icons=true&locale=en" alt="boombaw" /></p>
 
 
-<!--
-**boombaw/boombaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
 
-Here are some ideas to get you started:
+<h4 align="left">Backend</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<h4 align="left">Frontend</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+<h4 align="left">Database</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+<h4 align="left">Web Server</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+</div>
+
+###
+
+
+
