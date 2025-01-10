@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tri</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+# Hi, I'm Tri 👋
+A passionate full stack developer from Indonesia
 
 - 🔭 I’m currently working on [Bhayangkara Jakarta Raya University](https://ubharajaya.ac.id)
 
