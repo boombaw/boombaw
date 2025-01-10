@@ -8,7 +8,7 @@ A passionate full stack developer from Indonesia
 - 💬 Ask me about anything [here](https://github.com/boombaw/boombaw/issues)
   
 <h3 align="left">Connect with me:</h3>
-<p align='center'>
+<p align='left'>
    <a href="https://www.linkedin.com/in/tri-fitriadi">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
